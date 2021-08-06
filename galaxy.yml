@@ -46,7 +46,7 @@ dependencies: {}
 
 # The URL of the originating SCM repository
 #repository: http://example.com/repository
-repository: https://github.com/Pankhuri1804/ansiblehello1coll.git
+repository: https://github.com/Pankhuri1804/ansiblehello1coll
 
 # The URL to any online docs
 documentation: http://docs.example.com
